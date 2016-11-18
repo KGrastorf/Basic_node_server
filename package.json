@@ -1,7 +1,6 @@
 {
-  "name": "basic_nodejs",
+  "name": "react",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,14 @@
     "cors": "^2.8.1",
     "express": "^4.14.0",
     "mongoose": "^4.6.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KGrastorf/Basic_node_server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KGrastorf/Basic_node_server/issues"
+  },
+  "homepage": "https://github.com/KGrastorf/Basic_node_server#readme",
+  "description": ""
 }
